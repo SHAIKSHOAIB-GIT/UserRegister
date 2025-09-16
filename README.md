@@ -13,21 +13,21 @@ JDBC (Oracle ojdbc6.jar)
 
 Users can register by filling out a form. The data is stored securely in an Oracle DB, and the app redirects to a success or failure page.
 
-UserReg/
- ├── src/
- │   └── com/servlet/
- │       └── RegisterServlet.java
- │
- ├── WebContent/
- │   ├── register.jsp
- │   ├── success.jsp
- │   ├── failure.jsp
- │   └── WEB-INF/
- │       ├── lib/
- │       │   └── ojdbc6.jar   <-- (manually copy here)
- │       └── web.xml
- │
- └── README.md
+    UserReg/
+     ├── src/
+     │   └── com/servlet/
+     │       └── RegisterServlet.java
+     │
+     ├── WebContent/
+     │   ├── register.jsp
+     │   ├── success.jsp
+     │   ├── failure.jsp
+     │   └── WEB-INF/
+     │       ├── lib/
+     │       │   └── ojdbc6.jar   <-- (manually copy here)
+     │       └── web.xml
+     │
+     └── README.md
 
  🔹 Steps to Run in Eclipse
 
