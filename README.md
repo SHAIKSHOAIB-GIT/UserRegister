@@ -11,6 +11,10 @@ Apache Tomcat 8.5 --> change port no to 9999
 
 JDBC (Oracle ojdbc6.jar)
 
+Intallation guide
+                
+        https://drive.google.com/drive/folders/1ZwTOro69JwQb5HQEwQFZfuihdYrfNsyY
+
 Users can register by filling out a form. The data is stored securely in an Oracle DB, and the app redirects to a success or failure page.
 
     UserReg/
